@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pn-project-networks/static/css/main.2cce8147.chunk.css",
+    "main.js": "/pn-project-networks/static/js/main.593a8dcc.chunk.js",
+    "main.js.map": "/pn-project-networks/static/js/main.593a8dcc.chunk.js.map",
+    "runtime~main.js": "/pn-project-networks/static/js/runtime~main.4cf2bd0c.js",
+    "runtime~main.js.map": "/pn-project-networks/static/js/runtime~main.4cf2bd0c.js.map",
+    "static/css/2.68503374.chunk.css": "/pn-project-networks/static/css/2.68503374.chunk.css",
+    "static/js/2.45f2a5be.chunk.js": "/pn-project-networks/static/js/2.45f2a5be.chunk.js",
+    "static/js/2.45f2a5be.chunk.js.map": "/pn-project-networks/static/js/2.45f2a5be.chunk.js.map",
+    "index.html": "/pn-project-networks/index.html",
+    "precache-manifest.c12fc69a9c05008a917fa8e7dddf8d08.js": "/pn-project-networks/precache-manifest.c12fc69a9c05008a917fa8e7dddf8d08.js",
+    "service-worker.js": "/pn-project-networks/service-worker.js",
+    "static/css/2.68503374.chunk.css.map": "/pn-project-networks/static/css/2.68503374.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/pn-project-networks/static/css/main.2cce8147.chunk.css.map",
+    "static/media/vis-network.min.css": "/pn-project-networks/static/media/editIcon.d5422321.png"
+  }
+}
